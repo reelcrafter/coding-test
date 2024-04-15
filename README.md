@@ -12,7 +12,10 @@ TypeScript cannot handle type information for `.vue` imports by default, so we r
 
 ## Project Setup
 
-First, make a copy of this template repo, and then clone your personal copy (not this repo!).
+1. **Don't clone this repo!**
+1. Instead, look for the green "Use this template" button in the upper right.
+1. Click that, then choose "Create a new repository" from the dropdown menu.
+1. Create a public repo and clone it.
 
 Then:
 
@@ -32,7 +35,7 @@ This is a simple app that queries the [USGS Earthquake API](https://earthquake.u
 
 Explore the code (starting at `main.ts` which is always the entry point of any Vue app) and go from there. Make sure the tests for `QuakeFilter.vue` pass, and—of course—don't modify the test file!
 
-Please log your time spent on this and let us know about how long it took you.
+Please log your time spent on this and let us know about how long it took you. Feel free to also keep notes about anything that tripped you up, and we can discuss.
 
 ### A Note About Using AI
 
